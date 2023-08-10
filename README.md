@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nathi</h1>
-<h3 align="center">A Frontend Developer Student</h3>
+<h3 align="center">A Sofware Developer Student</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathipd&show_icons=true&locale=en&layout=compact" alt="nathipd" /></p>
 
